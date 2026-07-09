@@ -1,3 +1,5 @@
+# Given a string, find the first non-repeated character.
+
 str = input("Enter a string: ")
 
 for char in str:

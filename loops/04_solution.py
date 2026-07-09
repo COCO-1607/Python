@@ -1,3 +1,5 @@
+# Reverse a string using a loop.
+
 str = input("Enter a string: ")
 
 reverse_str = ""

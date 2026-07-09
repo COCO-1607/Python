@@ -1,3 +1,5 @@
+# Customize a coffee order: "Small", "Medium", or "Large" with an option for "Extra shot" of espresso.
+
 print("please select the size of your drink:")
 print("1. Small")
 print("2. Medium") 
